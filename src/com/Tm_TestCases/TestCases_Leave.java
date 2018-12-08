@@ -25,7 +25,7 @@ public class TestCases_Leave extends DriverClass {
 	
 	//==============================================================================
 
-	@Test
+/*	@Test
 	public void TC102_ApplyLeave() {		
 		// Create the pagepattern to Login Page
 		Login lp = PageFactory.initElements(driver, Login.class);
@@ -39,7 +39,7 @@ public class TestCases_Leave extends DriverClass {
 		hpg.NavApplyLeave();
 		alp.applyLeave();
 		hpg.logOut();			
-	}
+	}*/
 	
 	//==============================================================================
 

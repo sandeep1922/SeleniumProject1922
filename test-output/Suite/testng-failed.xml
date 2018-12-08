@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.Tm_TestCases.OrangeHRM_TestCases">
+        <methods>
+          <include name="TC101_verifyLoginFunctionality"/>
+          <include name="toStart"/>
+          <include name="startMethod"/>
+        </methods>
+      </class> <!-- com.Tm_TestCases.OrangeHRM_TestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

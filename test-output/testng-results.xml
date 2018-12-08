@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22639" started-at="2018-12-08T05:25:10Z" finished-at="2018-12-08T05:25:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22639" started-at="2018-12-08T05:25:10Z" finished-at="2018-12-08T05:25:32Z">
+      <class name="com.Tm_TestCases.TestCases_Myinfo">
+        <test-method status="PASS" signature="startingMethod(java.lang.reflect.Method)[pri:0, instance:com.Tm_TestCases.TestCases_Myinfo@174d20a]" name="startingMethod" is-config="true" duration-ms="5346" started-at="2018-12-08T10:55:10Z" finished-at="2018-12-08T10:55:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Tm_TestCases.TestCases_Myinfo.TC_202_AddDependent()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startingMethod -->
+        <test-method status="PASS" signature="TC_202_AddDependent()[pri:0, instance:com.Tm_TestCases.TestCases_Myinfo@174d20a]" name="TC_202_AddDependent" duration-ms="15220" started-at="2018-12-08T10:55:15Z" finished-at="2018-12-08T10:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_202_AddDependent -->
+        <test-method status="PASS" signature="EndMethod()[pri:0, instance:com.Tm_TestCases.TestCases_Myinfo@174d20a]" name="EndMethod" is-config="true" duration-ms="2050" started-at="2018-12-08T10:55:30Z" finished-at="2018-12-08T10:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndMethod -->
+        <test-method status="PASS" signature="toEnd()[pri:0, instance:com.Tm_TestCases.TestCases_Myinfo@174d20a]" name="toEnd" is-config="true" duration-ms="16028" started-at="2018-12-08T10:55:33Z" finished-at="2018-12-08T10:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toEnd -->
+      </class> <!-- com.Tm_TestCases.TestCases_Myinfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
